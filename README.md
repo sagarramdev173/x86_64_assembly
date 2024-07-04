@@ -58,8 +58,12 @@ This directory conatns the simple x86_64_assembly code to demonstrate the use of
 
 ### Example 9
 
-
+This directory conatns the simple x86_64_assembly code to demonstrate the use of gcc compiler to compile x86_64_assembly code.
 
 ****
 Each directory conatins make file to compile and run the code which is nothing but sophsticated version of compile.sh script to run and compile x86_64_assembly code.
 ****
+
+## References
+
+1. https://flint.cs.yale.edu/cs421/papers/x86-asm/asm.html
