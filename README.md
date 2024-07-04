@@ -60,6 +60,11 @@ This directory conatns the simple x86_64_assembly code to demonstrate the use of
 
 This directory conatns the simple x86_64_assembly code to demonstrate the use of gcc compiler to compile x86_64_assembly code.
 
+### Example 10
+
+This directory conatns the simple x86_64_assembly code to demonstrate the use of glueing x86_64_assembly code with c code.
+
+
 ****
 Each directory conatins make file to compile and run the code which is nothing but sophsticated version of compile.sh script to run and compile x86_64_assembly code.
 ****
