@@ -27,8 +27,7 @@ multiply:
 loop:    
     add ecx,ebx
     dec eax
-    jnz loop
-    
+    jnz loop    
 
     mov ebx,ecx
 
