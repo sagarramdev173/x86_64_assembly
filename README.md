@@ -72,3 +72,5 @@ Each directory conatins make file to compile and run the code which is nothing b
 ## References
 
 1. https://flint.cs.yale.edu/cs421/papers/x86-asm/asm.html
+2. https://www.cs.princeton.edu/courses/archive/spr11/cos217/lectures/15AssemblyFunctions.pdf
+3. https://youtu.be/wLXIWKUWpSs?si=7THIIfbhI7xxuhQe
